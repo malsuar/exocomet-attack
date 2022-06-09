@@ -1,0 +1,5 @@
+setup.py
+exocometary.egg-info/PKG-INFO
+exocometary.egg-info/SOURCES.txt
+exocometary.egg-info/dependency_links.txt
+exocometary.egg-info/top_level.txt
